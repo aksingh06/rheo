@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-19T17:22:59.010901731+05:30",
+  "data": {
+    "CMAKE_CXX_EXTENSIONS": {
+      "location": {
+        "uri": "file:///mnt/data/rheo/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 9,
+            "character": 4
+          },
+          "end": {
+            "line": 9,
+            "character": 24
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /mnt/data/rheo/CMakeLists.txt",
+      "is_function": false
+    },
+    "CMAKE_EXPORT_COMPILE_COMMANDS": {
+      "location": {
+        "uri": "file:///mnt/data/rheo/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 10,
+            "character": 4
+          },
+          "end": {
+            "line": 10,
+            "character": 33
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /mnt/data/rheo/CMakeLists.txt",
+      "is_function": false
+    },
+    "CMAKE_CXX_STANDARD_REQUIRED": {
+      "location": {
+        "uri": "file:///mnt/data/rheo/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 8,
+            "character": 4
+          },
+          "end": {
+            "line": 8,
+            "character": 31
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /mnt/data/rheo/CMakeLists.txt",
+      "is_function": false
+    },
+    "CMAKE_CXX_STANDARD": {
+      "location": {
+        "uri": "file:///mnt/data/rheo/CMakeLists.txt",
+        "range": {
+          "start": {
+            "line": 7,
+            "character": 4
+          },
+          "end": {
+            "line": 7,
+            "character": 22
+          }
+        }
+      },
+      "document_info": "defined variable\nfrom: /mnt/data/rheo/CMakeLists.txt",
+      "is_function": false
+    }
+  }
+}

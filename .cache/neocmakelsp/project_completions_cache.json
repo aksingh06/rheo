@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-19T17:22:59.010830923+05:30",
+  "data": {
+    "/mnt/data/rheo/CMakeLists.txt": [
+      {
+        "label": "CMAKE_CXX_STANDARD",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /mnt/data/rheo/CMakeLists.txt"
+      },
+      {
+        "label": "CMAKE_CXX_STANDARD_REQUIRED",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /mnt/data/rheo/CMakeLists.txt"
+      },
+      {
+        "label": "CMAKE_CXX_EXTENSIONS",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /mnt/data/rheo/CMakeLists.txt"
+      },
+      {
+        "label": "CMAKE_EXPORT_COMPILE_COMMANDS",
+        "kind": 12,
+        "detail": "Value",
+        "documentation": "defined variable\nfrom: /mnt/data/rheo/CMakeLists.txt"
+      },
+      {
+        "label": "LLVM_LIBRARIES",
+        "kind": 6,
+        "detail": "Variable",
+        "documentation": "package: LLVM"
+      },
+      {
+        "label": "LLVM_INCLUDE_DIRS",
+        "kind": 6,
+        "detail": "Variable",
+        "documentation": "package: LLVM"
+      }
+    ]
+  }
+}
